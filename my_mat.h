@@ -1,7 +1,7 @@
 #ifndef MY_MAT_H
 #define MY_MAT_H
 #include <stdbool.h>
-#define NUM_SALARIES 3
+#define NUM_SALARIES 10
 
 void floydWarshall(int arr[NUM_SALARIES][NUM_SALARIES]);
 void insert(int arr[NUM_SALARIES][NUM_SALARIES]);
