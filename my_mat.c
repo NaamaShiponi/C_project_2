@@ -21,7 +21,7 @@ void floydWarshall(int arr[NUM_SALARIES][NUM_SALARIES])
             }
         }
     }
-    printArr(arr);
+    // printArr(arr);
 }
 
 void insert(int arr[NUM_SALARIES][NUM_SALARIES])
